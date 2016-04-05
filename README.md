@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 react-hot-boilerplate
 =====================
 
@@ -45,3 +46,7 @@ This boilerplate is purposefully simple to show the minimal configuration for Re
 * [Integrating JSX live reload into your workflow](http://gaearon.github.io/react-hot-loader/getstarted/)
 * [Troubleshooting guide](https://github.com/gaearon/react-hot-loader/blob/master/docs/Troubleshooting.md)
 * Ping dan_abramov on Twitter or #reactjs IRC
+=======
+# react-starter
+配合webpack-dev-server和react-hot-loader.
+>>>>>>> 92f8987147a7252f2ab3997d5a7e44c0534f79e9
